@@ -16,4 +16,4 @@ Transaction confirm here e8ce659344d2cf53dd29dbd9a4bb17b24dc7dbd92adca408d714020
 * The smallest unit 0.000000000000000001 is known as a pellet
 
 ## Want some GPC?
-Email GuineaPigCoin@protonmail.com using the [Request GPC](mailto:GuineaPigCoin@protonmail.com?subject=[GPC]%20Need%20Some%20Pellets) link with your TRON TRC-20 Address. You may become a millionaier.  
+Email GuineaPigCoin@protonmail.com using the [Request GPC](mailto:GuineaPigCoin@protonmail.com?subject=[GPC]%20Need%20Some%20Pellets&body=TRC-20%20Address:%20) link with your TRON TRC-20 Address. You may become a millionaier.  
