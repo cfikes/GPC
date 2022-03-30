@@ -10,3 +10,10 @@ https://tronscan.io/#/token20/TQeP1obHzXFn5SjJKLxSZBTyXCkSet2iad
 
 Contract address:  TQeP1obHzXFn5SjJKLxSZBTyXCkSet2iad
 Transaction confirm here e8ce659344d2cf53dd29dbd9a4bb17b24dc7dbd92adca408d7140205bb81d324
+
+## Terminology
+* GPC == One Whole Coin
+* The smallest unit 0.000000000000000001 is known as a pellet
+
+## Want some GPC?
+Email GuineaPigCoin@protonmail.com with the Subject "Need some Pellet"
